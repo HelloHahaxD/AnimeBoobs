@@ -1,0 +1,18 @@
+"PF2.OutsideNight"
+{
+	"dsp"	"1"
+
+	"playlooping"
+	{
+		"volume"	".25"
+		"pitch"		"100"
+		"wave"		"ambient/forest_life.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"	".35"
+		"pitch"		"100"
+		"wave"		"ambient/forest_high_wind.wav"
+	}
+}
