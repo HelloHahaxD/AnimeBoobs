@@ -1,0 +1,404 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.vmf
+Patching WVT material: maps/trade_pf2_e_indev_3/nature/blendrockground007_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 248 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (226560 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1656 texinfos to 806
+Reduced 64 texdatas to 54 (1516 bytes to 1251)
+Writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.bsp
+Wrote ZIP buffer, estimated size 213488, actual size 212604
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.vmf
+Patching WVT material: maps/trade_pf2_e_indev_3/nature/blendrockground007_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 248 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (226560 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1656 texinfos to 806
+Reduced 64 texdatas to 54 (1516 bytes to 1251)
+Writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.bsp
+Wrote ZIP buffer, estimated size 213488, actual size 212604
+3 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.vmf
+Patching WVT material: maps/trade_pf2_e_indev_3/nature/blendrockground007_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 248 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (226560 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1656 texinfos to 806
+Reduced 64 texdatas to 54 (1516 bytes to 1251)
+Writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.bsp
+Wrote ZIP buffer, estimated size 213488, actual size 212604
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+No vis information, direct lighting only.
+3409 faces
+2 degenerate faces
+8579571 square feet [1235458176.00 square inches]
+158 Displacements
+113500 Square Feet [16344131.00 Square Inches]
+18 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0064 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  74/1024         3552/49152    ( 7.2%) 
+brushes                553/8192         6636/98304    ( 6.8%) 
+brushsides            5132/65536       41056/524288   ( 7.8%) 
+planes                6834/65536      136680/1310720  (10.4%) 
+vertexes              6188/65536       74256/786432   ( 9.4%) 
+nodes                 3053/65536       97696/2097152  ( 4.7%) 
+texinfos               806/12288       58032/884736   ( 6.6%) 
+texdata                 54/2048         1728/65536    ( 2.6%) 
+dispinfos              158/0           27808/0        ( 0.0%) 
+disp_verts            4902/0           98040/0        ( 0.0%) 
+disp_tris             6688/0           13376/0        ( 0.0%) 
+disp_lmsamples      340232/0          340232/0        ( 0.0%) 
+faces                 3409/65536      190904/3670016  ( 5.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1781/65536       99736/3670016  ( 2.7%) 
+leaves                3128/65536      100096/2097152  ( 4.8%) 
+leaffaces             3598/65536        7196/131072   ( 5.5%) 
+leafbrushes           2840/65536        5680/131072   ( 4.3%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            22663/512000      90652/2048000  ( 4.4%) 
+edges                13255/256000      53020/1024000  ( 5.2%) 
+LDR worldlights         18/8192         1584/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            285/32768        2850/327680   ( 0.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4674/65536        9348/131072   ( 7.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2238228/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       47949/393216   (12.2%) 
+LDR ambient table     3128/65536       12512/262144   ( 4.8%) 
+HDR ambient table     3128/65536       12512/262144   ( 4.8%) 
+LDR leaf ambient      9069/65536      253932/1835008  (13.8%) 
+HDR leaf ambient      3128/65536       87584/1835008  ( 4.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/18382    ( 0.0%) 
+pakfile               [variable]      212604/0        ( 0.0%) 
+physics               [variable]      226560/4194304  ( 5.4%) 
+physics terrain       [variable]       28452/1048576  ( 2.7%) 
+
+Level flags = 0
+
+Total triangle count: 8530
+Writing c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+8 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.vmf
+Patching WVT material: maps/trade_pf2_e_indev_3/nature/blendrockground007_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 254 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (224208 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1653 texinfos to 806
+Reduced 64 texdatas to 54 (1516 bytes to 1251)
+Writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.bsp
+Wrote ZIP buffer, estimated size 213488, actual size 212604
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+No vis information, direct lighting only.
+3409 faces
+2 degenerate faces
+8579571 square feet [1235458176.00 square inches]
+158 Displacements
+113500 Square Feet [16344131.00 Square Inches]
+18 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0065 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  74/1024         3552/49152    ( 7.2%) 
+brushes                547/8192         6564/98304    ( 6.7%) 
+brushsides            5096/65536       40768/524288   ( 7.8%) 
+planes                6798/65536      135960/1310720  (10.4%) 
+vertexes              6190/65536       74280/786432   ( 9.4%) 
+nodes                 3053/65536       97696/2097152  ( 4.7%) 
+texinfos               806/12288       58032/884736   ( 6.6%) 
+texdata                 54/2048         1728/65536    ( 2.6%) 
+dispinfos              158/0           27808/0        ( 0.0%) 
+disp_verts            4902/0           98040/0        ( 0.0%) 
+disp_tris             6688/0           13376/0        ( 0.0%) 
+disp_lmsamples      340232/0          340232/0        ( 0.0%) 
+faces                 3409/65536      190904/3670016  ( 5.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1781/65536       99736/3670016  ( 2.7%) 
+leaves                3128/65536      100096/2097152  ( 4.8%) 
+leaffaces             3598/65536        7196/131072   ( 5.5%) 
+leafbrushes           2828/65536        5656/131072   ( 4.3%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            22663/512000      90652/2048000  ( 4.4%) 
+edges                13255/256000      53020/1024000  ( 5.2%) 
+LDR worldlights         18/8192         1584/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            283/32768        2830/327680   ( 0.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4623/65536        9246/131072   ( 7.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2238228/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       47949/393216   (12.2%) 
+LDR ambient table     3128/65536       12512/262144   ( 4.8%) 
+HDR ambient table     3128/65536       12512/262144   ( 4.8%) 
+LDR leaf ambient      9069/65536      253932/1835008  (13.8%) 
+HDR leaf ambient      3128/65536       87584/1835008  ( 4.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/18510    ( 0.0%) 
+pakfile               [variable]      212604/0        ( 0.0%) 
+physics               [variable]      224208/4194304  ( 5.3%) 
+physics terrain       [variable]       28452/1048576  ( 2.7%) 
+
+Level flags = 0
+
+Total triangle count: 8530
+Writing c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+7 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.vmf
+Patching WVT material: maps/trade_pf2_e_indev_3/nature/blendrockground007_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 254 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (224208 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1653 texinfos to 806
+Reduced 64 texdatas to 54 (1516 bytes to 1251)
+Writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.bsp
+Wrote ZIP buffer, estimated size 213488, actual size 212604
+3 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[56 texlights parsed from 'lights.rad']
+
+Loading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+No vis information, direct lighting only.
+3409 faces
+2 degenerate faces
+8579571 square feet [1235458176.00 square inches]
+158 Displacements
+113500 Square Feet [16344131.00 Square Inches]
+18 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0068 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  74/1024         3552/49152    ( 7.2%) 
+brushes                547/8192         6564/98304    ( 6.7%) 
+brushsides            5096/65536       40768/524288   ( 7.8%) 
+planes                6798/65536      135960/1310720  (10.4%) 
+vertexes              6190/65536       74280/786432   ( 9.4%) 
+nodes                 3053/65536       97696/2097152  ( 4.7%) 
+texinfos               806/12288       58032/884736   ( 6.6%) 
+texdata                 54/2048         1728/65536    ( 2.6%) 
+dispinfos              158/0           27808/0        ( 0.0%) 
+disp_verts            4902/0           98040/0        ( 0.0%) 
+disp_tris             6688/0           13376/0        ( 0.0%) 
+disp_lmsamples      340232/0          340232/0        ( 0.0%) 
+faces                 3409/65536      190904/3670016  ( 5.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1781/65536       99736/3670016  ( 2.7%) 
+leaves                3128/65536      100096/2097152  ( 4.8%) 
+leaffaces             3598/65536        7196/131072   ( 5.5%) 
+leafbrushes           2828/65536        5656/131072   ( 4.3%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            22663/512000      90652/2048000  ( 4.4%) 
+edges                13255/256000      53020/1024000  ( 5.2%) 
+LDR worldlights         18/8192         1584/720896   ( 0.2%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            283/32768        2830/327680   ( 0.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4623/65536        9246/131072   ( 7.1%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2238228/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       47949/393216   (12.2%) 
+LDR ambient table     3128/65536       12512/262144   ( 4.8%) 
+HDR ambient table     3128/65536       12512/262144   ( 4.8%) 
+LDR leaf ambient      9069/65536      253932/1835008  (13.8%) 
+HDR leaf ambient      3128/65536       87584/1835008  ( 4.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/18510    ( 0.0%) 
+pakfile               [variable]      212604/0        ( 0.0%) 
+physics               [variable]      224208/4194304  ( 5.3%) 
+physics terrain       [variable]       28452/1048576  ( 2.7%) 
+
+Level flags = 0
+
+Total triangle count: 8530
+Writing c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+8 seconds elapsed
