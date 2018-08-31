@@ -6,9 +6,6 @@ versioninfo
 	"formatversion" "100"
 	"prefab" "0"
 }
-visgroups
-{
-}
 viewsettings
 {
 	"bSnapToGrid" "1"
@@ -22,10 +19,10 @@ world
 	"id" "1"
 	"mapversion" "8"
 	"classname" "worldspawn"
-	"skyname" "sky_tf2_04"
-	"maxpropscreenwidth" "-1"
-	"detailvbsp" "detail_2fort.vbsp"
 	"detailmaterial" "detail/detailsprites_2fort"
+	"detailvbsp" "detail_2fort.vbsp"
+	"maxpropscreenwidth" "-1"
+	"skyname" "sky_tf2_04"
 	solid
 	{
 		"id" "2"
@@ -495,22 +492,8 @@ world
 }
 entity
 {
-	"id" "14"
-	"classname" "info_player_teamspawn"
-	"angles" "0 0 0"
-	"origin" "-2304 -2304 320"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 3000]"
-	}
-}
-entity
-{
 	"id" "27"
-	"classname" "trigger_multiple"
+	"classname" ""
 	"origin" "-2304 -2304 800"
 	"parentname" "brush"
 	"spawnflags" "1"
@@ -905,24 +888,8 @@ entity
 }
 entity
 {
-	"id" "38"
-	"classname" "filter_damage_type"
-	"damagetype" "0"
-	"Negated" "1"
-	"targetname" "safezone"
-	"origin" "-2304 -2304 288"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 5500]"
-	}
-}
-entity
-{
 	"id" "60"
-	"classname" "trigger_hurt"
+	"classname" ""
 	"damage" "10"
 	"damagecap" "20"
 	"damagemodel" "0"
@@ -1019,7 +986,7 @@ entity
 entity
 {
 	"id" "107"
-	"classname" "func_door"
+	"classname" ""
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
 	"dmg" "0"
@@ -1128,7 +1095,7 @@ entity
 entity
 {
 	"id" "148"
-	"classname" "func_button"
+	"classname" ""
 	"disablereceiveshadows" "0"
 	"health" "0"
 	"lip" "0"
@@ -1239,7 +1206,7 @@ entity
 entity
 {
 	"id" "308"
-	"classname" "func_brush"
+	"classname" ""
 	"disablereceiveshadows" "0"
 	"disableshadows" "0"
 	"InputFilter" "0"
@@ -3037,17 +3004,6 @@ entity
 		}
 		side
 		{
-			"id" "882"
-			"plane" "(-2304 -2304 1296) (-2170.88 -2104.31 304) (-2134.31 -2134.31 304)"
-			"material" "/GLASSWINDOWAWESOMEX"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
 			"id" "881"
 			"plane" "(-2304 -2304 1296) (-2134.31 -2134.31 304) (-2104.31 -2170.88 304)"
 			"material" "/GLASSWINDOWAWESOMEX"
@@ -3424,17 +3380,6 @@ entity
 			"plane" "(-2304 -2304 1296) (-2304 -2064 304) (-2257.13 -2068.69 304)"
 			"material" "/GLASSWINDOWAWESOMEX"
 			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "917"
-			"plane" "(-2304 -2304 1296) (-2134.31 -2134.31 304) (-2104.31 -2170.88 304)"
-			"material" "/GLASSWINDOWAWESOMEX"
-			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -3978,17 +3923,6 @@ entity
 		}
 		side
 		{
-			"id" "965"
-			"plane" "(-2304 -2304 1296) (-2068.69 -2257.13 304) (-2064 -2304 304)"
-			"material" "/GLASSWINDOWAWESOMEX"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
 			"id" "964"
 			"plane" "(-2304 -2304 1296) (-2068.69 -2350.88 304) (-2081.81 -2395.88 304)"
 			"material" "/GLASSWINDOWAWESOMEX"
@@ -4146,28 +4080,6 @@ entity
 			"plane" "(-2304 -2304 1296) (-2304 -2064 304) (-2257.13 -2068.69 304)"
 			"material" "/GLASSWINDOWAWESOMEX"
 			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "982"
-			"plane" "(-2304 -2304 1296) (-2134.31 -2134.31 304) (-2104.31 -2170.88 304)"
-			"material" "/GLASSWINDOWAWESOMEX"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "981"
-			"plane" "(-2304 -2304 1296) (-2068.69 -2257.13 304) (-2064 -2304 304)"
-			"material" "/GLASSWINDOWAWESOMEX"
-			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
@@ -4339,17 +4251,6 @@ entity
 		}
 		side
 		{
-			"id" "997"
-			"plane" "(-2304 -2304 1296) (-2068.69 -2257.13 304) (-2064 -2304 304)"
-			"material" "/GLASSWINDOWAWESOMEX"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
 			"id" "996"
 			"plane" "(-2304 -2304 1296) (-2104.31 -2437.13 304) (-2134.31 -2473.69 304)"
 			"material" "/GLASSWINDOWAWESOMEX"
@@ -4494,17 +4395,6 @@ entity
 		{
 			"id" "1013"
 			"plane" "(-2304 -2304 1296) (-2304 -2064 304) (-2257.13 -2068.69 304)"
-			"material" "/GLASSWINDOWAWESOMEX"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1012"
-			"plane" "(-2304 -2304 1296) (-2257.13 -2068.69 304) (-2212.13 -2081.81 304)"
 			"material" "/GLASSWINDOWAWESOMEX"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
@@ -5213,17 +5103,6 @@ entity
 		}
 		side
 		{
-			"id" "1074"
-			"plane" "(-2304 -2304 1296) (-2257.13 -2539.31 304) (-2304 -2544 304)"
-			"material" "/GLASSWINDOWAWESOMEX"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
 			"id" "1073"
 			"plane" "(-2304 -2304 1296) (-2350.88 -2539.31 304) (-2395.88 -2526.19 304)"
 			"material" "/GLASSWINDOWAWESOMEX"
@@ -5237,137 +5116,6 @@ entity
 		{
 			"id" "1072"
 			"plane" "(-2437.13 -2503.69 304) (-2395.88 -2526.19 304) (-2304 -2304 1296)"
-			"material" "/GLASSWINDOWAWESOMEX"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "220 30 220"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	solid
-	{
-		"id" "247"
-		side
-		{
-			"id" "1094"
-			"plane" "(-2304 -2304 1312) (-2485 -2485 288) (-2517 -2446 288)"
-			"material" "/GLASSWINDOWAWESOMEX"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1093"
-			"plane" "(-2304 -2304 1312) (-2517 -2446 288) (-2541 -2402 288)"
-			"material" "/GLASSWINDOWAWESOMEX"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1092"
-			"plane" "(-2304 -2304 1312) (-2541 -2402 288) (-2555 -2354 288)"
-			"material" "/GLASSWINDOWAWESOMEX"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1091"
-			"plane" "(-2304 -2304 1312) (-2555 -2354 288) (-2560 -2304 288)"
-			"material" "/GLASSWINDOWAWESOMEX"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1090"
-			"plane" "(-2304 -2304 1312) (-2560 -2304 288) (-2555 -2254 288)"
-			"material" "/GLASSWINDOWAWESOMEX"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1089"
-			"plane" "(-2304 -2304 1312) (-2555 -2254 288) (-2541 -2206 288)"
-			"material" "/GLASSWINDOWAWESOMEX"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1088"
-			"plane" "(-2304 -2304 1312) (-2541 -2206 288) (-2517 -2162 288)"
-			"material" "/GLASSWINDOWAWESOMEX"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1087"
-			"plane" "(-2350.88 -2068.69 304) (-2395.88 -2081.81 304) (-2437.13 -2104.31 304)"
-			"material" "/GLASSWINDOWAWESOMEX"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 -1 0 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1086"
-			"plane" "(-2304 -2304 1296) (-2304 -2064 304) (-2257.13 -2068.69 304)"
-			"material" "/GLASSWINDOWAWESOMEX"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1085"
-			"plane" "(-2304 -2304 1296) (-2395.88 -2526.19 304) (-2437.13 -2503.69 304)"
-			"material" "/GLASSWINDOWAWESOMEX"
-			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1084"
-			"plane" "(-2473.69 -2473.69 304) (-2437.13 -2503.69 304) (-2304 -2304 1296)"
 			"material" "/GLASSWINDOWAWESOMEX"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
