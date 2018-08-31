@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pf2/concrete/concrete_ceiling_darkgray"
+	"$surfaceprop" "concrete"
+}

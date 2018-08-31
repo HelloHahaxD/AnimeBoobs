@@ -1,0 +1,6 @@
+"LightMappedGeneric"
+{
+	"$basetexture"	"pf2/metal/keyhole"
+	"$surfaceprop"	"metal"
+	"$nodecal"		"1"
+}

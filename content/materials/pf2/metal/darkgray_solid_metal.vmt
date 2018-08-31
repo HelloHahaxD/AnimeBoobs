@@ -1,0 +1,6 @@
+"LightMappedGeneric"
+{
+	"$basetexture"	"metal/metalchrome002"
+	"$surfaceprop"	"metal"
+	"$nodecal"		"1"
+}

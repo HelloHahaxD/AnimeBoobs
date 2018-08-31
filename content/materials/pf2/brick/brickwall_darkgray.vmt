@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "pf2/brick/brickwall_darkgray"
+	"$surfaceprop" "brick"
+}
