@@ -1130,3 +1130,454 @@ Level flags = 0
 Total triangle count: 8513
 Writing c:\users\jeffrey\documents\github\animeboobs\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
 19 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.vmf
+Patching WVT material: maps/trade_pf2_e_indev_3/nature/blendrockground007_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 138 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (182956 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1509 texinfos to 708
+Reduced 50 texdatas to 44 (1158 bytes to 990)
+Writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.bsp
+Wrote ZIP buffer, estimated size 212967, actual size 212217
+2 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.vmf
+"decals/custom/example/asd10" - "materials/decals/custom/example/asd9.vtf": cached version doesn't exist
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "/newhorr" not found.
+Material not found!: /NEWHORR
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/decals/20button.vmt
+LightmappedGeneric, 
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/decals/20button.vmt
+LightmappedGeneric, 
+Patching WVT material: maps/trade_pf2_e_indev_3/pf2/nature/blendgroundtograss_dark_wvt_patch
+Patching WVT material: maps/trade_pf2_e_indev_3/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/trade_pf2_e_indev_3/swamp/nature/blendswampmudtomud001_wvt_patch
+Patching WVT material: maps/trade_pf2_e_indev_3/nature/blendrockground007_wvt_patch
+fixing up env_cubemap materials on brush sides...
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/DECALS/20BUTTON.vmt
+LightmappedGeneric, 
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/DECALS/20BUTTON.vmt
+LightmappedGeneric, 
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/DECALS/20BUTTON.vmt
+LightmappedGeneric, 
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/DECALS/20BUTTON.vmt
+LightmappedGeneric, 
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity phys_motor (8038.83 -4024.26 -328.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 9216.0 145.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 8704.0 145.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 7680.0 145.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (12800.0 9216.0 145.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11264.0 8704.0 145.9)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11776.0 9216.0 145.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (11264.0 7680.0 145.9)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14336.0 6656.0 145.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1488 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (2) (3159198 bytes)
+Static prop models/props_spytech/exit_mounted.mdl outside the map (8601.00, -4794.00, -256.00)
+Static prop models/props_spytech/exit_mounted.mdl outside the map (9401.30, -4794.00, -255.94)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7953 texinfos to 4226
+Reduced 265 texdatas to 241 (6921 bytes to 6014)
+Writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.bsp
+Wrote ZIP buffer, estimated size 221674, actual size 218780
+11 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.vmf
+"decals/custom/example/asd10" - "materials/decals/custom/example/asd9.vtf": cached version doesn't exist
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "/newhorr" not found.
+Material not found!: /NEWHORR
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/decals/20button.vmt
+LightmappedGeneric, 
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/decals/20button.vmt
+LightmappedGeneric, 
+Patching WVT material: maps/trade_pf2_e_indev_3/pf2/nature/blendgroundtograss_dark_wvt_patch
+Patching WVT material: maps/trade_pf2_e_indev_3/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/trade_pf2_e_indev_3/swamp/nature/blendswampmudtomud001_wvt_patch
+Patching WVT material: maps/trade_pf2_e_indev_3/nature/blendrockground007_wvt_patch
+fixing up env_cubemap materials on brush sides...
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/DECALS/20BUTTON.vmt
+LightmappedGeneric, 
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/DECALS/20BUTTON.vmt
+LightmappedGeneric, 
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/DECALS/20BUTTON.vmt
+LightmappedGeneric, 
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/DECALS/20BUTTON.vmt
+LightmappedGeneric, 
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1488 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (3161294 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7953 texinfos to 4222
+Reduced 265 texdatas to 241 (6921 bytes to 6014)
+Writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.bsp
+Wrote ZIP buffer, estimated size 221674, actual size 218780
+11 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.vmf
+"decals/custom/example/asd10" - "materials/decals/custom/example/asd9.vtf": cached version doesn't exist
+Brush 2352568: bounds out of range
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "/newhorr" not found.
+Material not found!: /NEWHORR
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/decals/20button.vmt
+LightmappedGeneric, 
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/decals/20button.vmt
+LightmappedGeneric, 
+Patching WVT material: maps/trade_pf2_e_indev_3/pf2/nature/blendgroundtograss_dark_wvt_patch
+Patching WVT material: maps/trade_pf2_e_indev_3/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/trade_pf2_e_indev_3/swamp/nature/blendswampmudtomud001_wvt_patch
+Patching WVT material: maps/trade_pf2_e_indev_3/nature/blendrockground007_wvt_patch
+fixing up env_cubemap materials on brush sides...
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/DECALS/20BUTTON.vmt
+LightmappedGeneric, 
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/DECALS/20BUTTON.vmt
+LightmappedGeneric, 
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/DECALS/20BUTTON.vmt
+LightmappedGeneric, 
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/DECALS/20BUTTON.vmt
+LightmappedGeneric, 
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity phys_motor (8038.83 -4024.26 -328.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15872.0 9216.0 165.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 8704.0 165.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 7680.0 165.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 9216.0 165.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (13824.0 9216.0 165.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 6656.0 165.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 5632.0 165.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 4608.0 165.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1488 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (2) (3161158 bytes)
+Static prop models/props_spytech/exit_mounted.mdl outside the map (9401.30, -4794.00, -255.94)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7954 texinfos to 4225
+Reduced 265 texdatas to 241 (6921 bytes to 6014)
+Writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.bsp
+Wrote ZIP buffer, estimated size 221674, actual size 218780
+11 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.vmf
+"decals/custom/example/asd10" - "materials/decals/custom/example/asd9.vtf": cached version doesn't exist
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "/newhorr" not found.
+Material not found!: /NEWHORR
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/decals/20button.vmt
+LightmappedGeneric, 
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/decals/20button.vmt
+LightmappedGeneric, 
+Patching WVT material: maps/trade_pf2_e_indev_3/pf2/nature/blendgroundtograss_dark_wvt_patch
+Patching WVT material: maps/trade_pf2_e_indev_3/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/trade_pf2_e_indev_3/swamp/nature/blendswampmudtomud001_wvt_patch
+Patching WVT material: maps/trade_pf2_e_indev_3/nature/blendrockground007_wvt_patch
+fixing up env_cubemap materials on brush sides...
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/DECALS/20BUTTON.vmt
+LightmappedGeneric, 
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/DECALS/20BUTTON.vmt
+LightmappedGeneric, 
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/DECALS/20BUTTON.vmt
+LightmappedGeneric, 
+KeyValues Error: RecursiveLoadFromBuffer:  got } in key in file materials/DECALS/20BUTTON.vmt
+LightmappedGeneric, 
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1492 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (3160990 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7961 texinfos to 4223
+Reduced 265 texdatas to 241 (6921 bytes to 6014)
+Writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.bsp
+Wrote ZIP buffer, estimated size 221674, actual size 218780
+11 seconds elapsed
+CMaterialDict::Shutdown m_MissingList count: 1
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (32423 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 104 texinfos to 93
+Reduced 3 texdatas to 3 (69 bytes to 69)
+Writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.bsp
+Wrote ZIP buffer, estimated size 105921, actual size 105707
+1 second elapsed
