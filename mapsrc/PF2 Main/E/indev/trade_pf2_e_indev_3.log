@@ -1613,3 +1613,638 @@ Reduced 6 texdatas to 6 (133 bytes to 133)
 Writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.bsp
 Wrote ZIP buffer, estimated size 105921, actual size 105707
 1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (39505 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 92 texinfos to 67
+Reduced 17 texdatas to 17 (406 bytes to 406)
+Writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.bsp
+Wrote ZIP buffer, estimated size 105921, actual size 105707
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+reading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.prt
+  40 portalclusters
+  75 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 6 visible clusters (0.52%)
+Total clusters visible: 1156
+Average clusters visible: 28
+Building PAS...
+Average clusters audible: 39
+visdatasize:732  compressed from 640
+writing c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 18 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (98899 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 160 texinfos to 99
+Reduced 17 texdatas to 17 (390 bytes to 390)
+Writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.bsp
+Wrote ZIP buffer, estimated size 105921, actual size 105707
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+reading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.prt
+ 207 portalclusters
+ 593 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 16 visible clusters (0.07%)
+Total clusters visible: 22419
+Average clusters visible: 108
+Building PAS...
+Average clusters audible: 206
+visdatasize:12307  compressed from 13248
+writing c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 18 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (98835 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 160 texinfos to 97
+Reduced 17 texdatas to 16 (390 bytes to 365)
+Writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.bsp
+Wrote ZIP buffer, estimated size 105921, actual size 105707
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+reading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.prt
+ 203 portalclusters
+ 582 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.02%)
+Total clusters visible: 20636
+Average clusters visible: 101
+Building PAS...
+Average clusters audible: 147
+visdatasize:12285  compressed from 12992
+writing c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 18 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (98835 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 160 texinfos to 97
+Reduced 17 texdatas to 16 (390 bytes to 365)
+Writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.bsp
+Wrote ZIP buffer, estimated size 105921, actual size 105707
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+reading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.prt
+ 203 portalclusters
+ 582 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.02%)
+Total clusters visible: 20636
+Average clusters visible: 101
+Building PAS...
+Average clusters audible: 147
+visdatasize:12285  compressed from 12992
+writing c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 18 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (98835 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 160 texinfos to 97
+Reduced 17 texdatas to 16 (390 bytes to 365)
+Writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.bsp
+Wrote ZIP buffer, estimated size 105921, actual size 105707
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+reading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.prt
+ 203 portalclusters
+ 582 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.02%)
+Total clusters visible: 20636
+Average clusters visible: 101
+Building PAS...
+Average clusters audible: 147
+visdatasize:12285  compressed from 12992
+writing c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 18 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (98835 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 160 texinfos to 97
+Reduced 17 texdatas to 16 (390 bytes to 365)
+Writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.bsp
+Wrote ZIP buffer, estimated size 105921, actual size 105707
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+reading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.prt
+ 203 portalclusters
+ 582 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.02%)
+Total clusters visible: 20636
+Average clusters visible: 101
+Building PAS...
+Average clusters audible: 147
+visdatasize:12285  compressed from 12992
+writing c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 18 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (98835 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 160 texinfos to 97
+Reduced 17 texdatas to 16 (390 bytes to 365)
+Writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.bsp
+Wrote ZIP buffer, estimated size 105921, actual size 105707
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+reading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.prt
+ 203 portalclusters
+ 582 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.02%)
+Total clusters visible: 20636
+Average clusters visible: 101
+Building PAS...
+Average clusters audible: 147
+visdatasize:12285  compressed from 12992
+writing c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 18 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (98835 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 160 texinfos to 97
+Reduced 17 texdatas to 16 (390 bytes to 365)
+Writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.bsp
+Wrote ZIP buffer, estimated size 105921, actual size 105707
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+reading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.prt
+ 203 portalclusters
+ 582 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.02%)
+Total clusters visible: 20636
+Average clusters visible: 101
+Building PAS...
+Average clusters audible: 147
+visdatasize:12285  compressed from 12992
+writing c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 18 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (98835 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 160 texinfos to 97
+Reduced 17 texdatas to 16 (390 bytes to 365)
+Writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.bsp
+Wrote ZIP buffer, estimated size 105921, actual size 105707
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+reading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.prt
+ 203 portalclusters
+ 582 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.02%)
+Total clusters visible: 20636
+Average clusters visible: 101
+Building PAS...
+Average clusters audible: 147
+visdatasize:12285  compressed from 12992
+writing c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 18 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (98835 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 160 texinfos to 97
+Reduced 17 texdatas to 16 (390 bytes to 365)
+Writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.bsp
+Wrote ZIP buffer, estimated size 105921, actual size 105707
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+reading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.prt
+ 203 portalclusters
+ 582 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.02%)
+Total clusters visible: 20636
+Average clusters visible: 101
+Building PAS...
+Average clusters audible: 147
+visdatasize:12285  compressed from 12992
+writing c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 18 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (98835 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 160 texinfos to 97
+Reduced 17 texdatas to 16 (390 bytes to 365)
+Writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.bsp
+Wrote ZIP buffer, estimated size 105921, actual size 105707
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+reading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.prt
+ 203 portalclusters
+ 582 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.02%)
+Total clusters visible: 20636
+Average clusters visible: 101
+Building PAS...
+Average clusters audible: 147
+visdatasize:12285  compressed from 12992
+writing c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\materials
+Loading C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.vmf
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 18 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_csgo_night02b*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (98835 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 160 texinfos to 97
+Reduced 17 texdatas to 16 (390 bytes to 365)
+Writing C:\Users\Mangoe\Documents\GitHub\PF2\mapsrc\PF2 Main\E\indev\trade_pf2_e_indev_3.bsp
+Wrote ZIP buffer, estimated size 105921, actual size 105707
+1 second elapsed
+
+
+
+4 threads
+reading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+reading c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.prt
+ 203 portalclusters
+ 582 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 5 visible clusters (0.02%)
+Total clusters visible: 20636
+Average clusters visible: 101
+Building PAS...
+Average clusters audible: 147
+visdatasize:12285  compressed from 12992
+writing c:\users\mangoe\documents\github\pf2\mapsrc\pf2 main\e\indev\trade_pf2_e_indev_3.bsp
+1 second elapsed
